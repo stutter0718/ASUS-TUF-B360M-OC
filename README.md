@@ -12,6 +12,9 @@ OpenCore version 0.6.6 Release Version with MacOS Big Sur 11.2.1
 
 
 ## Bios Setting
+ 
+*English*    
+
 - Boot>Boot Configuration >Fast Boot :  ***Disable***
 - Boot>CSM(Compatibility Support Module)>launch CSM:***Disable***
 - Boot>Secure Boot>OS type:***Other OS***
@@ -21,3 +24,17 @@ OpenCore version 0.6.6 Release Version with MacOS Big Sur 11.2.1
 - Advanced >System Agent(SA) Configuration>Above 4G Decoding:***Enable***
 - Advanced>PCH Configuration >System time and Alarm Source:***Legacy RTC***
 - Advanced>USB Configuration >XHCI hand-off:***Enable***
+
+
+
+*简体中文*    
+
+* 启动>启动设置>快速启动：***关闭***
+* 启动>CSM（兼容性支持模块>开启CSM:***关闭***
+* 启动>安全启动菜单>操作系统类型 ：***其他操作系统***
+* 高级>cpu设置>Software Guard Extensions(SGX):***关闭***
+* 高级>cpu设置>CPU-Power Management Control >CFG lock:***关闭***
+* 高级>北桥>VT-d:***关闭***
+* 高级>北桥>大于4G地址空间解码：***开启***
+* 高级>PCH设置>System time and Alarm Source:***Legacy RTC***
+* 高级>USB Configuration>XHCI hand-off:***开启***
