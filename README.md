@@ -1,4 +1,4 @@
-ASUS TUF B360M-PLUS GAMING S OpenCore EFI
+ASUS TUF B360M-PLUS GAMING S OpenCore EFI.   
 OpenCore version 0.6.6 Release Version MacOS Big Sur 11.2.1 
 | Type  | Model |
 | ------ | ------ |
