@@ -1,7 +1,7 @@
 # ASUS TUF B360M-PLUS GAMING S OpenCore EFI
 
 OpenCore version 0.6.6 Release Version with MacOS Big Sur 11.2.1 
-## My computer configuration
+## My Computer Configuration
 | Type  | Model |
 | ------ | ------ |
 | CPU | Intel Core i3 8100 |
