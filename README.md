@@ -14,6 +14,11 @@ MacOS版本： Big Sur 11.2.3
 | 显卡 | ~~XFX Radeon RX570 4GB~~  Intel UHD Graphics 630 |
 
 
+AMD涨价了，就把570卖了。
+现在核显输出，B360主板HDMI/DVI无法输出问题不会搞，借用了[NEEPUCS](https://github.com/NEEPUCS)的[Ausu-ROG-Strix-B360i-HACKINTOSH-OPENCORE-EFI](https://github.com/NEEPUCS/Ausu-ROG-Strix-B360i-HACKINTOSH-OPENCORE-EFI)中的设置。
+现在HDMI可以点亮屏幕，手头没有DVI显示器没有测试。但是不能设置休眠或者显示器休眠，屏幕黑了就无法亮了，只有重启了。
+
+
 ## Bios Setting
  
 *English*    
