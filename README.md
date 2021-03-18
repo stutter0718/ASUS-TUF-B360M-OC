@@ -7,7 +7,7 @@ MacOS版本： Big Sur 11.2.3
 
 | Type  | Model |
 | ------ | ------ |
-| CPU | Intel Core i3 8100 |
+| CPU | Intel Core ~~i3 8100~~  i9 9900k |
 | 主板 | ASUS TUF B360M-PLUS GAMING S |
 | 内存 | 芝奇幻光戟 8G 3000MHz |
 | 固态硬盘 | HP SSD EX900 M.2 250GB |
