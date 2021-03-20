@@ -1,16 +1,22 @@
 ## ASUS B360M-PLUS GAMING S OpenCore EFI
 
-OpenCore version 0.6.7 Release Version with MacOS Big Sur 11.2.3 
+OpenCore版本： 0.6.7发行版
+MacOS版本： Big Sur 11.2.3 
 
-## My Computer Configuration
+## 我的配置
 
 | Type  | Model |
 | ------ | ------ |
-| CPU | Intel Core i3 8100 |
-| MotherBoard | ASUS TUF B360M-PLUS GAMING S |
-| RAM | G.SKILL Trident Z RGB 8G 3000MHz |
-| Storage | HP SSD EX900 M.2 250GB |
-| Graphics | ~~XFX Radeon RX570 4GB~~  Intel UHD Graphics 630 |
+| CPU | Intel Core ~~i3 8100~~  i9 9900k |
+| 主板 | ASUS TUF B360M-PLUS GAMING S |
+| 内存 | 芝奇幻光戟 8G 3000MHz |
+| 固态硬盘 | HP SSD EX900 M.2 250GB |
+| 显卡 | ~~XFX Radeon RX570 4GB~~  Intel UHD Graphics 630 |
+
+
+AMD涨价了，就把570卖了。
+现在核显输出，B360主板HDMI/DVI无法输出问题不会搞，借用了[NEEPUCS](https://github.com/NEEPUCS)的[Ausu-ROG-Strix-B360i-HACKINTOSH-OPENCORE-EFI](https://github.com/NEEPUCS/Ausu-ROG-Strix-B360i-HACKINTOSH-OPENCORE-EFI)中的设置。
+现在HDMI可以点亮屏幕，手头没有DVI显示器没有测试。但是不能设置休眠或者显示器休眠，屏幕黑了就无法亮了，只有重启了。
 
 
 ## Bios Setting
