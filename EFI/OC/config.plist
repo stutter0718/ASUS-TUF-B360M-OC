@@ -1053,9 +1053,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02723100J9JG36AD</string>
+			<string>C07828200CDKXPGCB</string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1801</integer>
 			<key>ROM</key>
 			<data>pajvt3b2</data>
 			<key>SpoofVendor</key>
@@ -1063,11 +1063,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TTFYJHX87</string>
+			<string>C07X2UZSJYVX</string>
 			<key>SystemUUID</key>
-			<string>0BF94B57-9EC8-47C9-82FD-9C824EB776F6</string>
+			<string>3C29A0A5-AC7F-4D19-A288-771407DBC8DB</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
